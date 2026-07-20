@@ -26,11 +26,11 @@ To write a Java program that serializes a collection of objects (ArrayList of St
 
 
 ## PROGRAM:
- ```
+```
 /*
-Program to implement a Serialization and Deserialization using Java
-Developed by: Rithish R
-RegisterNumber:  212224040278
+Program to implement variables and Operators using Java
+Developed by: Madhesh I
+RegisterNumber:  212224220055
 */
 ```
 
